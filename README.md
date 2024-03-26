@@ -8,7 +8,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40">
 </p>
 <p align="center">
-  <img src="https://www.blender.org/ alt="blender" width="40"> (Low)
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img
 </p>
 <p align="center">Montage (Low)</p>
 <p align="center">PhotoShop</p>
