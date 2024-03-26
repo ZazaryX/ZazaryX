@@ -13,8 +13,3 @@
 <p align="center">
 </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40"
 </p>
-<h1 align="center">Statistics</h1>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ZazaryX&show_icons=true&theme=radical" />
-</p>
