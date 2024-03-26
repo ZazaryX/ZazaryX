@@ -2,12 +2,14 @@
 <p align="center">I am a developer from Russia, I work at Unity</p>
 <p align="center"><strong>My skills</strong></p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40"> C++
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40">
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40"> C#
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40">
 </p>
-<p align="center">Blender (Low)</p>
+<p align="center">
+  <img src="https://www.svgrepo.com/svg/353488/blender" alt="blender" width="40"> (Low)
+</p>
 <p align="center">Montage (Low)</p>
 <p align="center">PhotoShop</p>
 <h1 align="center">Statistics</h1>
