@@ -8,7 +8,9 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40">
 </p>
 <p align="center">
-  <img src="https://icons8.com/icon/KDGdN57NLSJa/blender-3d" alt="blender" width="40"> (Low)
+  <p align="center">
+  <img src="https://icons8.com/icon/KDGdN57NLSJa/blender-3d" alt="Blender" width="40"> Blender (Low)
+</p>
 </p>
 <p align="center">Montage (Low)</p>
 <p align="center">PhotoShop</p>
