@@ -7,4 +7,5 @@
 <p align="center">Montage (Low)</p>
 <p align="center">PhotoShop</p>
 <h1 align="center">Statistics</h1>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZazaryX&show_icons=true&theme=radical)
