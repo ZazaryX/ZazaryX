@@ -7,7 +7,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40">
 </p>
-<p align="center"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img
+<p align="center">
+<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img
+</p>
 <p align="center">Montage (Low)</p>
 <p align="center">PhotoShop</p>
 <h1 align="center">Statistics</h1>
