@@ -3,3 +3,6 @@
 <p align="center"><strong>My skills</strong></p>
 <p align="center">C++</p>
 <p align="center">C#</p>
+<p align="center">Blender (Low)</p>
+<p align="center">Montage (Low)</p>
+<p align="center">PhotoShop</p>
