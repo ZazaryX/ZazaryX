@@ -1,14 +1,21 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=33&pause=1000&color=F7F7F7&center=true&multiline=true&random=false&width=900&height=120&lines=Hi+there%2C+I%60m+Artoym;I+am+a+developer+from+Russia%2C+I+work+at+Unity" alt="Typing SVG" /></a>
-<p align="center"><strong>My skills</strong></p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40">
-</p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40">
-</p>
-<p align="center">
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
-</p>
-<p align="center">
-</a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40"
-</p>
+# ___Hello User!___ :hand:
+>I see that you’ve visited my GitHub and wanted to know who I am/what I do and so on, and I will tell and show you all about it
+
+**1.My name is = `Artyom`**
+
+**2.How old am I = `15`**
+
+**3.Live in = `Russia`**
+
+**4.My favorite hobby = `Programming`**
+
+**5.Language Programming = `C#`**
+
+**6.I know additional programming languages = `C++, Lua`**
+
+**6.What project am I working on = `Altercell`**
+
+>Altercell - what can I say about it
+>>Altercell initially was called `A bug game` and the gameplay was such that the player had to complete tasks from the blue skull, its name **(Developer)**, but I changed my mind about the `gameplay and decided it will be a game about programming and hacking like in Watch Dogs 2`, `the graphics will look = Low Poly`, `and add a Multiplayer in the release version.` Also, I want to implement `VR support in this game` (if I buy it)
+
+>I also do `modeling in Blender`, you can see the animation in the form of a gif, I started learning it about 6 months ago, but I think I can’t do more
