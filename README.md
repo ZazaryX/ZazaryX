@@ -18,6 +18,9 @@
 >Altercell - what can I say about it
 >>Altercell initially was called `A bug game` and the gameplay was such that the player had to complete tasks from the blue skull, its name **(Developer)**, but I changed my mind about the `gameplay and decided it will be a game about programming and hacking like in Watch Dogs 2`, `the graphics will look = Low Poly`, `and add a Multiplayer in the release version.` Also, I want to implement `VR support in this game` (if I buy it)
 
->I also do modeling in Blender, you can see my animation in the form of a `gif with my character (I will rework it for the game in the future)`, I started learning it about 6 months ago
+>I also do modeling in Blender, you can see my animation in the form of a `gif with my character (I will rework it for the game in the future)`, I started learning it about 6 months ago ___`Interesting fact, I created my character for about 1 month`___
 
-![1](AlterCellGit.gif)
+![](AlterCellGit.gif)
+
+> Also, I think that the project is only completed on ![](https://geps.dev/progress/20)
+>>I will update the bug progress with each new commit and goal achievement
