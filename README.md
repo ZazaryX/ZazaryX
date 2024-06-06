@@ -22,7 +22,7 @@
 
 ![](AlterCellGit.gif)
 
-> Also, I think that the project is only completed on ![](https://geps.dev/progress/20)
+> Also, I think that the project is only completed on ![](https://geps.dev/progress/6)
 >>I will update the bug progress with each new commit and goal achievement
 
 >Also, you can contact me and ask about anything
@@ -30,4 +30,4 @@
 ### Also, you can contact me and ask about anything
 * ___Discord = `zazaryxs`___
 * ___Email = `zazaryxs@gmail.com`___
-* ___Tekegram = `https://t.me/ZazaryXS || @ZazaryXS`___
+* ___Telegram = `https://t.me/ZazaryXS || @ZazaryXS`___
