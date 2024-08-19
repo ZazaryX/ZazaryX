@@ -1,33 +1,45 @@
 # ___Hello User!___ :hand:
->I see that you’ve visited my GitHub and wanted to know who I am/what I do and so on, and I will tell and show you all about it
 
-**1.My name is = `Artyom`**
+>I see that you’ve visited my GitHub and wanted to know who I am and what I do. Here’s all the information you need:
 
-**2.How old am I = `15`**
+**1. My name is** `Artyom`
 
-**3.Live in = `Russia`**
+**2. How old am I** `16`
 
-**4.My favorite hobby = `Programming`**
+**3. I live in** `Russia`
 
-**5.Language Programming = `C#`**
+**4. My favorite hobby is** `Programming`
 
-**6.I know additional programming languages = `C++, Lua`**
+**5. My primary programming language is** `C#`
 
-**6.What project am I working on = `Altercell`**
+**6. I also know additional programming languages** `C++, Assembler NASM`
 
->Altercell - what can I say about it
->>Altercell initially was called `A bug game` and the gameplay was such that the player had to complete tasks from the blue skull, its name **(Developer)**, but I changed my mind about the `gameplay and decided it will be a game about programming and hacking like in Watch Dogs 2`, `the graphics will look = Low Poly`, `and add a Multiplayer in the release version.` Also, I want to implement `VR support in this game` (if I buy it)
+**7. What project am I working on** `VoidForge`
 
->I also do modeling in Blender, you can see my animation in the form of a `gif with my character (I will rework it for the game in the future)`, I started learning it about 6 months ago ___`Interesting fact, I created my character for about 1 month`___
+> **VoidForge**  
+> In this Unity project, my character (Zazary) will wield a sword, and the gameplay will be similar to soul-like games.
+
+**8. What frameworks and tools do I use?**
+
+   - **Frameworks**: Web Selenium C#, memory.dll C#
+   - **Development Environment**: Visual Studio
+   - **Modeling Software**: Blender
+
+**9. What tools do I use for reverse engineering?**
+
+   - **Tools**: Cheat Engine for games, IDA Pro for programs
+   - **What I've done**: I’ve hacked games using Cheat Engine, such as RimWorld, Watch Dogs Legion, Far Cry 6, Satisfactory, etc. I also wrote mini-scripts in Assembly for Cheat Engine and created trainers (e.g., infinite items, Fly mode) using memory.dll. Additionally, I’ve hacked programs using IDA Pro, including gaining access to my own custom-made software.
+
+>I also do modeling in Blender. You can see my animation in the form of a `GIF with my character` (I will rework it for the game in the future). I started learning Blender about 6 months ago.
 
 ![](AlterCellGit.gif)
 
-> Also, I think that the project is only completed on ![](https://geps.dev/progress/6)
->>I will update the bug progress with each new commit and goal achievement
+> Also, the project progress is currently at ![](https://geps.dev/progress/10).  
+> I will update the progress with each new commit and goal achievement.
 
->Also, you can contact me and ask about anything
+> If you have any questions or want to contact me, you can reach out through the following:
 
-### Also, you can contact me and ask about anything
-* ___Discord = `zazaryxs`___
-* ___Email = `zazaryxs@gmail.com`___
-* ___Telegram = `https://t.me/ZazaryXS || @ZazaryXS`___
+### Contact Information
+* ___Discord: `zazaryxs`___
+* ___Email: `zazaryxs@gmail.com`___
+* ___Telegram: [`https://t.me/ZazaryXS`](https://t.me/ZazaryXS) || `@ZazaryXS`___
