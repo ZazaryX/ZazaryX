@@ -1,45 +1,60 @@
-# ___Hello User!___ :hand:
+# My GitHub
 
->I see that you�ve visited my GitHub and wanted to know who I am and what I do. Here�s all the information you need:
+Hi, welcome to my GitHub. I’m **Artyom**, a 16-year-old from Russia who’s into programming and a bit of art. Here’s the essentials about me:
 
-**1. My name is** `Artyom`
+---
 
-**2. How old am I** `16`
+## About Me
+- **Name**: `Artyom`  
+- **Age**: `16`  
+- **Location**: `Russia`  
+- **Hobbies**: `Programming, Art`  
 
-**3. I live in** `Russia`
+I enjoy writing code, tackling complex challenges, and building my own projects.
 
-**4. My favorite hobby is** `Programming`
+---
 
-**5. My primary programming language is** `C#`
+## Skills
+- **Primary Language**: `C#` — my go-to for most work.  
+- **Other Languages**:  
+  - `C++` — for performance and control.  
+  - `Assembler NASM` — for low-level programming.  
 
-**6. I also know additional programming languages** `C++, Assembler NASM`
+- **Tools**:  
+  - `Web Selenium C#` — web automation.  
+  - `memory.dll C#` — memory manipulation in programs.  
+  - `Visual Studio` — my main development environment.  
+  - `Blender` — 3D modeling in my spare time.  
 
-**7. What project am I working on** `VoidForge`
+- **Reverse Engineering**:  
+  - **Tools**: `Cheat Engine`, `IDA Pro`.  
+  - **Experience**:  
+    - Hacked games like `RimWorld`, `Watch Dogs Legion`, `Far Cry 6`, `Satisfactory` — added infinite resources, fly mode, and more.  
+    - Wrote Assembly scripts for Cheat Engine.  
+    - Created trainers using `memory.dll`.  
+    - Analyzed my own software with IDA Pro to test my skills.  
 
-> **VoidForge**  
-> In this Unity project, my character (Zazary) will wield a sword, and the gameplay will be similar to soul-like games.
+---
 
-**8. What frameworks and tools do I use?**
+## Current Project: NorthMine.ru
+I’m working on **NorthMine.ru** — a server and website in development. Aiming for solid functionality and clean design. Updates coming soon.
 
-   - **Frameworks**: Web Selenium C#, memory.dll C#
-   - **Development Environment**: Visual Studio
-   - **Modeling Software**: Blender
+---
 
-**9. What tools do I use for reverse engineering?**
+## Fun Facts
+- I can debug code for hours when I’m hooked.  
+- I like cyberpunk vibes and music while working.  
+- My goal is to build a project that catches game devs’ attention.  
+- I run on coffee and a flexible schedule.  
 
-   - **Tools**: Cheat Engine for games, IDA Pro for programs
-   - **What I've done**: I�ve hacked games using Cheat Engine, such as RimWorld, Watch Dogs Legion, Far Cry 6, Satisfactory, etc. I also wrote mini-scripts in Assembly for Cheat Engine and created trainers (e.g., infinite items, Fly mode) using memory.dll. Additionally, I�ve hacked programs using IDA Pro, including gaining access to my own custom-made software.
+---
 
->I also do modeling in Blender. You can see my animation in the form of a `GIF with my character` (I will rework it for the game in the future). I started learning Blender about 6 months ago.
+## Contact
+Have questions or ideas? Reach out:  
+- **Discord**: `zazaryxs`  
+- **Email**: `zazaryxs@gmail.com`  
+- **Telegram**: [@ZazaryXS](https://t.me/ZazaryXS)  
 
-![](AlterCellGit.gif)
+---
 
-> Also, the project progress is currently at ![](https://geps.dev/progress/10).  
-> I will update the progress with each new commit and goal achievement.
-
-> If you have any questions or want to contact me, you can reach out through the following:
-
-### Contact Information
-* ___Discord: `zazaryxs`___
-* ___Email: `zazaryxs@gmail.com`___
-* ___Telegram: [`https://t.me/ZazaryXS`](https://t.me/ZazaryXS) || `@ZazaryXS`___
+> *"Code is a tool that brings ideas to life. Welcome!"*  
