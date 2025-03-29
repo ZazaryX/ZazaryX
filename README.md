@@ -126,7 +126,7 @@ Developer developer = new Developer
 
 <br>
 
-## `> PROJECT.run` - Current Project: <a href="https://northmine.ru"target="_blank">northmine.ru</a> 🚀
+## `> PROJECT.run` - Current Project: <a href="https://northmine.ru" target="_blank">northmine.ru</a> 🚀
 
 <div align="center">
 </div>
