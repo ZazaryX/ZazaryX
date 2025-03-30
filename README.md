@@ -2,7 +2,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   
   # `> Hello World.exe` | I'm Artyom
-  ### [<a href="https://ZazaryX.github.io" target="_blank">ZazaryX.github.io</a>]
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=39FF14&size=30&center=true&vCenter=true&width=600&lines=C%23+Developer;Reverse+Engineer;Game+Hacker;Digital+Artist;Anime+Illustrator)](https://git.io/typing-svg)
 </div>
