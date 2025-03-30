@@ -2,6 +2,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
   
   # `> Hello World.exe` | I'm Artyom
+  ### [<a href="https://ZazaryX.github.io" target="_blank">ZazaryX.github.io</a>]
 
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=39FF14&size=30&center=true&vCenter=true&width=600&lines=C%23+Developer;Reverse+Engineer;Game+Hacker;Digital+Artist;Anime+Illustrator)](https://git.io/typing-svg)
 </div>
@@ -214,6 +215,9 @@ Developing **NorthMine.ru** — a Minecraft server where I work as the technical
   <a href="mailto:zazaryxs@gmail.com">
     <img src="https://img.shields.io/badge/Email-zazaryxs@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
+  <a href="https://ZazaryX.github.io" target="_blank">
+    <img src="https://img.shields.io/badge/Website-ZazaryX.github.io-1E90FF?style=for-the-badge&logo=github-pages&logoColor=white">
+  </a>
 </div>
 
 <div align="center">
@@ -222,6 +226,5 @@ Developing **NorthMine.ru** — a Minecraft server where I work as the technical
   <h3>
     <pre>CONNECTION_ESTABLISHED: Thank you for visiting my profile!</pre>
   </h3>
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+</div>
 </div>
