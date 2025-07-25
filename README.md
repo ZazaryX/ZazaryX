@@ -15,7 +15,7 @@
 Developer developer = new Developer
 {
     Name        = "Artyom",
-    Age         = 16,
+    Age         = 17,
     Location    = "Russia",
     MainStack   = "C#",
     SecondStack = new[] { "C++", "Assembler NASM" },
