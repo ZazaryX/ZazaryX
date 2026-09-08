@@ -61,18 +61,15 @@ class Artyom : Developer
 ## `> stats`
 
 <div align="center">
-  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Zazary&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
-  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zazary&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZazaryX&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZazaryX&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
 </div>
 
 <div align="center">
   <img alt="GitHub Streak" src="https://streak-stats.demolab.com?user=Zazary&theme=chartreuse-dark&hide_border=true&background=0D1117"/>
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Zazary/Zazary/output/github-contribution-grid-snake-dark.svg"/>
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/Zazary/Zazary/output/github-contribution-grid-snake.svg"/>
-</picture>
+![snake gif](https://github.com/ZazaryX/ZazaryX/blob/output/github-snake-dark.svg)
 
 ---
 
