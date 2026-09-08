@@ -61,8 +61,9 @@ class Artyom : Developer
 ## `> stats`
 
 <div align="center">
-  <img height="160" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ZazaryX&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
-  <img height="160" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZazaryX&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117"/>
+  <img src="https://img.shields.io/github/stars/ZazaryX?style=for-the-badge&color=7fff00&labelColor=0d1117"/>
+  <img src="https://img.shields.io/github/followers/ZazaryX?style=for-the-badge&color=7fff00&labelColor=0d1117"/>
+  <img src="https://img.shields.io/github/commits-since/ZazaryX/ZazaryX/latest?style=for-the-badge&color=7fff00&labelColor=0d1117"/>
 </div>
 
 <div align="center">
